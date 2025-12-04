@@ -1,1 +1,1 @@
-# Analizador-de-secuencias-ADN# trigger rebuild
+# Analizador-de-secuencias-ADN
